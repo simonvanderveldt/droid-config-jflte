@@ -4,7 +4,7 @@
 %define vendor samsung
 
 %define vendor_pretty Samsung
-%define device_pretty Galaxy S4 intl i9505
+%define device_pretty Galaxy S4 intl LTE
 
 %define dcd_path ./
 
