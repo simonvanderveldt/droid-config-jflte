@@ -6,5 +6,6 @@ Name: jolla-ui-configuration-jflte
 Requires:
 - jolla-ambient-z@ICON_RES@
 - ambient-icons-closed-z@ICON_RES@
+- jolla-settings-layout
 Summary: Jolla UI Configuration jflte
 
