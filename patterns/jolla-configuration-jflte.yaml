@@ -5,7 +5,10 @@ Description: Pattern with packages for jflte configurations
 Name: jolla-configuration-jflte
 Requires:
 - pattern:jolla-hw-adaptation-jflte
-- pattern:jolla-configuration-sfe
+- pattern:jolla-sailfish-applications
+- pattern:jolla-ui-wayland
+# Early stages of porting benefit from these:
+- pattern:sailfish-porter-tools
 
 Summary: Jolla Configuration jflte
 
